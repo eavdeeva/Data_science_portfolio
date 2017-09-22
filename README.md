@@ -11,3 +11,10 @@ More details about the project can be found in
 2. [Dissertation](https://github.com/eavdeeva/ThesisTextWg/blob/master/nuthesis/examples/nuthesis.pdf);
 3. [Analysis code](https://github.com/eavdeeva/usercode/tree/master/WGammaAnalysis).
 
+# Prediciting Survival of Titanic Passengers
+## (Kaggle to-get-started competition)
+
+The prediction of whether a Titanic passenger survived the tragedy or not is stated to be a training competition on Kaggle. Detailed description of the objective can be found on the [competition webpage](https://www.kaggle.com/c/titanic)
+
+I offer a solution through careful data exploration followed by manually implemented boosted decision tree. To solve the problem, I used Python with the Jupyter Notebook. This
+[notebook](https://www.kaggle.com/eavdeeva/titanic-part-1-look-count-classify) documents the whole analysis alongside with the code.
