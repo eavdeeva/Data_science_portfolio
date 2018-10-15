@@ -26,4 +26,6 @@ More details about the project can be found in
 
 While over ten years in particle physics research gave me an extensive hands-on experience in data analysis, data visualization as well as related soft skills, it has one little problem: the tools we are using are not very common outside of our research area.
 
-To learn how to speak the same language with data scientists from a wider range of fields, I study Python and machine learning through online courses and test my knowledge playing with kaggle tasks. To get a better understanding about my proficiency with Python data science tools like Pandas, seaborn etc, you are welcome to take a look at my [kaggle kernels](https://www.kaggle.com/eavdeeva). 
+To learn how to speak the same language with data scientists from a wider range of fields, I study Python and machine learning through online courses and test my knowledge playing with kaggle tasks. To get a better understanding about my proficiency with Python data science tools like Pandas, seaborn etc, you are welcome to take a look at 
+
+[my kaggle kernels](https://www.kaggle.com/eavdeeva). 
